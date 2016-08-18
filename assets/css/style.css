@@ -1267,12 +1267,12 @@ LAYOUT & GRID STYLES
 LINK STYLES
 *********************/
 a, a:visited {
-  color: #f01d4f;
+  color: #7dd667;
   /* on hover */
   /* on click */
   /* mobile tap color */ }
   a:hover, a:focus, a:visited:hover, a:visited:focus {
-    color: #d10e3c; }
+    color: #5ecc43; }
   a:link, a:visited:link {
     /*
 		this highlights links on iPhones/iPads.
@@ -1286,7 +1286,7 @@ H1, H2, H3, H4, H5 STYLES
 ******************************************************************/
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
   text-rendering: optimizelegibility;
-  font-weight: 500;
+  font-weight: 700;
   /*
 	if you're going to use webfonts, be sure to check your weights
 	http://css-tricks.com/watch-your-font-weight/
@@ -1321,7 +1321,7 @@ h5, .h5 {
 HEADER STYLES
 *********************/
 .header {
-  background-color: #323944; }
+  background-color: #7dd667; }
 
 #logo {
   margin: 0.75em 0; }
@@ -1944,7 +1944,7 @@ be seen on the Desktop.
 
 ******************************************************************/
   .wrap {
-    width: 1040px; } }
+    width: 1170px; } }
 
 /*********************
 LARGE VIEWING SIZE
